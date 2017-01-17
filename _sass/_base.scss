@@ -1,0 +1,224 @@
+// This is a partial.
+// It lies in <source>/_sass, just waiting to be imported.
+// It does not contain the YAML front matter and has no corresponding output file in the built site.
+
+// add base styles here
+
+section {
+padding-bottom: 140px;
+}
+h2 {
+font-weight: 100;
+padding-top: 80px;
+text-transform: uppercase;
+}
+h3 {
+font-weight: 100;
+}
+p {
+font-weight: 100;
+}
+.brand {
+margin: 0 auto; 
+display: block;
+text-indent: -9999px;
+background: url(/images/vtu-logo.svg) no-repeat center;
+}
+.explanation {
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 60px;
+font-weight: 100;
+}
+.thumbnail {
+padding-left: 40px;
+padding-top: 40px;
+padding-right: 40px;
+padding-bottom: 10px;
+}
+.overview {
+border-top: 4px dashed #000;
+background-color: #f1f2f2;
+}
+.team {
+border-top: 4px dashed #000;
+background-color: #e2e2e2;
+}
+.img-thumbnail {
+border: 6px solid #f1f2f2;
+padding: 0px;
+}
+footer {
+background-color: #303030;
+padding-bottom: 80px;
+color: #fff;
+}
+footer a {
+color: #fff;
+}
+footer a:link {
+text-decoration: none;
+}
+footer .small {
+color: #5e5e5e;
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+.brand {
+margin-top: 100px;
+width: 200px;
+height: 50px;
+}
+.elevator-pitch {
+font-size: 15px;
+padding-top: 40px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 0;
+}
+.contact {
+padding-top: 60px;
+font-size: 15px;
+}
+.small {
+padding-top: 60px;
+}
+.rwd-line-1 {
+display: inline
+}
+.rwd-line {
+display: block
+}
+.hidden {
+visibility: hidden;
+}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+.brand {
+margin-top: 100px;
+width: 300px;
+height: 75px;
+}
+.elevator-pitch {
+font-size: 15px;
+padding-top: 40px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 20px;
+}
+.contact {
+padding-top: 120px;
+font-size: 15px;
+}
+.small {
+padding-top: 60px;
+}
+.rwd-line-1 {
+display: inline
+}
+.rwd-line {
+display: block
+}
+.hidden {
+visibility: hidden;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+.brand {
+margin-top: 136px;
+width: 400px;
+height: 100px;
+}
+.elevator-pitch {
+font-size: 18px;
+padding-top: 40px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 40px;
+}
+.contact {
+padding-top: 120px;
+font-size: 18px;
+}
+.small {
+padding-top: 60px;
+}
+.rwd-line-1 {
+display: block
+}
+.rwd-line {
+display: inline
+}
+.hidden {
+visibility: visible;
+}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+.brand {
+margin-top: 200px;
+width: 400px;
+height: 100px;
+}
+.elevator-pitch {
+font-size: 18px;
+padding-top: 40px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 100px;
+}
+.contact {
+padding-top: 120px;
+font-size: 18px;
+}
+.small {
+padding-top: 60px;
+}
+.rwd-line-1 {
+display: block
+}
+.rwd-line {
+display: inline
+}
+.hidden {
+visibility: visible;
+}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+.brand {
+margin-top: 200px;
+width: 400px;
+height: 100px;
+}
+.elevator-pitch {
+font-size: 20px;
+padding-top: 40px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 100px;
+}
+.contact {
+padding-top: 120px;
+font-size: 18px;
+}
+.small {
+padding-top: 60px;
+}
+.rwd-line-1 {
+display: block
+}
+.rwd-line {
+display: inline
+}
+.hidden {
+visibility: visible;
+}
+}
