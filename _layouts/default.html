@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/">
+
+{% include head.html %}
+<body>
+
+{% include header.html %}
+{% if page.url == '/' %}
+{% else %}
+<div class="top-of-page-spacer">
+</div>
+{% endif %}
+
+<div class="page-content">
+  <div class="wrapper">
+  {{ content }}
+  </div>
+</div>
+
+{% include footer.html %}
+
+</body>
+</html>
