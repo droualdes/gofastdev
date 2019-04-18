@@ -4,9 +4,9 @@ Error: Invalid CSS after "...stom-variables"": expected "{", was ";"
 
 2: # Front matter comment to ensure Jekyll properly reads file.
 3: ---
-4: 
+4:
 5: // import partials
-6: 
+6:
 7: @import "../_sass/custom-variables";
 8: @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
 9: // @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass"; // What does this do?
