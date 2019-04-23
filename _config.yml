@@ -9,7 +9,7 @@
 title: GofastDev
 email: support@gofastdev.com
 description: GofastDev
-baseurl: ""
+baseurl: "_gofastdev"
 url: "http://gofastdev.com"
 exclude: [ '_site/', '_ignore/']
 
