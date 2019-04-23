@@ -1,0 +1,25 @@
+{
+  "name": "gofastdev",
+  "version": "1.0.0",
+  "description": "GoFastDev Website",
+  "main": "index.js",
+  "dependencies": {
+    "animatescroll.js": "^1.0.7",
+    "bootstrap": "^3.4.1",
+    "bootstrap-sass": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droualdes/gofastdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/droualdes/gofastdev/issues"
+  },
+  "homepage": "https://github.com/droualdes/gofastdev#readme"
+}
