@@ -11,7 +11,7 @@ email: support@gofastdev.com
 description: GofastDev
 baseurl: ""
 url: "http://gofastdev.com"
-exclude: [ '_site/', '_ignore/', 'README.md', 'gofastdev.sublime-project', 'gofastdev.sublime-workspace', 'config.codekit']
+exclude: [ '_site/', '_ignore/']
 
 # sass
 sass:
