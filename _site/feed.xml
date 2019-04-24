@@ -3,10 +3,10 @@
   <channel>
     <title>GofastDev</title>
     <description>GofastDev</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Apr 2019 17:16:59 -0700</pubDate>
-    <lastBuildDate>Mon, 22 Apr 2019 17:16:59 -0700</lastBuildDate>
+    <link>http://localhost:4000/gofastdev/</link>
+    <atom:link href="http://localhost:4000/gofastdev/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Apr 2019 17:13:49 -0700</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 17:13:49 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;We built them an automatic testing and deployment environment. We reduced the 24-hours processing down to 15-minutes. The error-prone software became full-tested software. Most importantly, we gave them an entirely repeatable way to develop software. Individual software developer productivity increased dramatically. We also made it easy to get developers into and out an incredibly complicated software development process.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000/casestudies/case%20studies/2017/02/01/case-study-3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2017/02/01/case-study-3.html</guid>
+        <link>http://localhost:4000/gofastdev/casestudies/case%20studies/2017/02/01/case-study-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gofastdev/casestudies/case%20studies/2017/02/01/case-study-3.html</guid>
         
         
         <category>casestudies</category>
@@ -42,8 +42,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000/casestudies/case%20studies/2017/02/01/case-study-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2017/02/01/case-study-1.html</guid>
+        <link>http://localhost:4000/gofastdev/casestudies/case%20studies/2017/02/01/case-study-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gofastdev/casestudies/case%20studies/2017/02/01/case-study-1.html</guid>
         
         
         <category>casestudies</category>
@@ -65,8 +65,8 @@
 &lt;p&gt;Today, Engine Yard is the largest hosting provider of Rails web applications. Groupon, Audi, MTV, Freshdesk, Bayer, and many other Fortune companies and startups host with them.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000/casestudies/case%20studies/2017/01/01/case-study-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2017/01/01/case-study-2.html</guid>
+        <link>http://localhost:4000/gofastdev/casestudies/case%20studies/2017/01/01/case-study-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gofastdev/casestudies/case%20studies/2017/01/01/case-study-2.html</guid>
         
         
         <category>casestudies</category>
@@ -80,8 +80,8 @@
         <description>&lt;p&gt;Cras dictum. Maecenas ut turpis. In vitae erat ac orci dignissim eleifend. Nunc quis justo. Sed vel ipsum in purus tincidunt pharetra. Sed pulvinar, felis id consectetuer malesuada, enim nisl mattis elit, a facilisis tortor nibh quis leo. Sed augue lacus, pretium vitae, molestie eget, rhoncus quis, elit. Donec in augue. Fusce orci wisi, ornare id, mollis vel, lacinia vel, massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Jan 2016 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/2016/01/03/blog-post-3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/01/03/blog-post-3.html</guid>
+        <link>http://localhost:4000/gofastdev/blog/2016/01/03/blog-post-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gofastdev/blog/2016/01/03/blog-post-3.html</guid>
         
         
         <category>blog</category>
@@ -95,8 +95,8 @@
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien. Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan eu, blandit sed, blandit a, eros.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Jan 2016 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/2016/01/02/blog-post-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/01/02/blog-post-2.html</guid>
+        <link>http://localhost:4000/gofastdev/blog/2016/01/02/blog-post-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gofastdev/blog/2016/01/02/blog-post-2.html</guid>
         
         
         <category>blog</category>
@@ -110,8 +110,8 @@
         <description>&lt;p&gt;Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 17:00:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/2016/01/01/blog-post-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/01/01/blog-post-1.html</guid>
+        <link>http://localhost:4000/gofastdev/blog/2016/01/01/blog-post-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gofastdev/blog/2016/01/01/blog-post-1.html</guid>
         
         
         <category>blog</category>
